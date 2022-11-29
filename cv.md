@@ -17,3 +17,16 @@ I want to study in RSSchool
 + HTML5, CSS3
 + VS Code
 
+## Code example:
+```
+function myConcat(separator) {
+   var result = '';
+   var i;
+
+   for (i = 1; i < arguments.length; i++) {
+      result += arguments[i] + separator;
+   }
+   return result;
+}
+```
+
