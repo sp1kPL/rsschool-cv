@@ -9,3 +9,11 @@
 - *Email*: <dudarenkoalekspl@gmail.com>
 - [GitHub](https://github.com/sp1kPL)
 
+## About Myself:
+I want to study in RSSchool
+
+## Skills:
++ Git, GitHub
++ HTML5, CSS3
++ VS Code
+
