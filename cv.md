@@ -29,4 +29,11 @@ function myConcat(separator) {
    return result;
 }
 ```
+## Education:
+- Belarusian State Agrarian Technical University (BSATU - Belarus, Minsk) - Engineer
+- Medicus post-secondary school in Poznan (Poland) - Postal and financial services technician
 
+## Languages:
+- English - A2
+- Polish  - A2
+- Russian - Native 
