@@ -1,6 +1,6 @@
 # Aleksandr Dudarenko
 
-## Contact :
+## Contacts :
 
 - *Location*: Poland, Poznan
 - *Phone*: +48 733129881
@@ -9,13 +9,13 @@
 - *Email*: <dudarenkoalekspl@gmail.com>
 - [GitHub](https://github.com/sp1kPL)
 
-## About Myself:
+## About Me:
 I want to study in RSSchool
 
 ## Skills:
-+ Git, GitHub
-+ HTML5, CSS3
-+ VS Code
++ GitHub
++ HTML
++ CSS
 
 ## Code example:
 ```
@@ -30,10 +30,9 @@ function myConcat(separator) {
 }
 ```
 ## Education:
-- Belarusian State Agrarian Technical University (BSATU - Belarus, Minsk) - Engineer
-- Medicus post-secondary school in Poznan (Poland) - Postal and financial services technician
+- Belarusian State Agrarian Technical University - Engineer
 
 ## Languages:
 - English - A2
 - Polish  - A2
-- Russian - Native 
+- Russian - Native
