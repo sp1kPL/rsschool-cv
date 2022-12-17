@@ -1,0 +1,33 @@
+body {
+  background-color: #f1f1f1;
+  color: #0f141e;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.avatar {
+  width: 250px;
+  border-radius: 28px;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.3);
+}
+
+.iam p {
+  color:grey;
+  margin: 0;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 750px;
+  margin: auto;
+}
