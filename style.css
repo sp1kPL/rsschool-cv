@@ -111,8 +111,12 @@ body {
 
 .footer-info {
   display: flex;
-  justify-content: flex-end;
   align-items: center;
+}
+
+.logo {
+  width: 36px;
+  height: 36px;
 }
 
 ul {
@@ -121,4 +125,3 @@ ul {
   margin: 1em 0 1em 0;
   padding-left: 40px;
 }
-
