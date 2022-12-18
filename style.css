@@ -34,14 +34,16 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;}
+  justify-content: space-between;
+}
 
-  .section-item a {
-    color: #829985;
-    text-decoration: none;
-    transition: color 0.5s;
-  }
-  .section-item a:hover {
+.section-item a {
+  color: #829985;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.section-item a:hover {
   text-decoration: underline;
   }
 
@@ -112,3 +114,11 @@ body {
   justify-content: flex-end;
   align-items: center;
 }
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin: 1em 0 1em 0;
+  padding-left: 40px;
+}
+
